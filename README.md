@@ -5,7 +5,6 @@
 The project in question was developed during the second NLW (Next Level Week) mediated by Rocketseat. The application aims to connect students with difficulty and private teachers. The system offers numerous options, allowing the student to find the ideal teacher, adapted to their schedules and financial conditions
 The teacher, on the other hand, can spread his work and help as many students as he can at times and prices set by himself
 
-✨ Proffy is finalised ✨
 
 <br/>
 
